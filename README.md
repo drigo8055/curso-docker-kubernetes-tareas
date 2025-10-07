@@ -6,4 +6,5 @@ Repositorio de las tareas del curso de Kubernetes
 ---
 
 ## 📘 Índice de Clases
-
+1. [Clase 01 - Introducción a Docker](./clase01/README.md)
+2. [Clase 02 - Imágenes y Contenedores](./clase02/README.md)
